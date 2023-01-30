@@ -21,6 +21,11 @@ pip install -r requirements.txt
 
 ## Usage
 
+### UI App (Streamlit)
+```bash
+streamlit run src/ui.py
+```
+
 ### 1) Run with synthetic data
 ```bash
 python -m src.main
